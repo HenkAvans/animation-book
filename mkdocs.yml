@@ -1,0 +1,7 @@
+site_name: DIGITAL IMAGING 
+
+theme:
+  name: material
+
+extra_css:
+  - extra.css
